@@ -1,0 +1,74 @@
+{
+  "root": "apps/tech-events-uk",
+  "sourceRoot": "apps/tech-events-uk/src",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@nrwl/web:webpack",
+      "outputs": ["{options.outputPath}"],
+      "defaultConfiguration": "production",
+      "options": {
+        "compiler": "babel",
+        "outputPath": "dist/apps/tech-events-uk",
+        "index": "apps/tech-events-uk/src/index.html",
+        "baseHref": "/",
+        "main": "apps/tech-events-uk/src/main.tsx",
+        "polyfills": "apps/tech-events-uk/src/polyfills.ts",
+        "tsConfig": "apps/tech-events-uk/tsconfig.app.json",
+        "assets": [
+          "apps/tech-events-uk/src/favicon.ico",
+          "apps/tech-events-uk/src/assets"
+        ],
+        "styles": ["apps/tech-events-uk/src/styles.scss"],
+        "scripts": [],
+        "webpackConfig": "@nrwl/react/plugins/webpack"
+      },
+      "configurations": {
+        "production": {
+          "fileReplacements": [
+            {
+              "replace": "apps/tech-events-uk/src/environments/environment.ts",
+              "with": "apps/tech-events-uk/src/environments/environment.prod.ts"
+            }
+          ],
+          "optimization": true,
+          "outputHashing": "all",
+          "sourceMap": false,
+          "namedChunks": false,
+          "extractLicenses": true,
+          "vendorChunk": false
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nrwl/web:dev-server",
+      "options": {
+        "buildTarget": "tech-events-uk:build",
+        "hmr": true,
+        "proxyConfig": "apps/tech-events-uk/proxy.conf.json"
+      },
+      "configurations": {
+        "production": {
+          "buildTarget": "tech-events-uk:build:production",
+          "hmr": false
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/tech-events-uk/**/*.{ts,tsx,js,jsx}"]
+      }
+    },
+    "test": {
+      "executor": "@nrwl/jest:jest",
+      "outputs": ["coverage/apps/tech-events-uk"],
+      "options": {
+        "jestConfig": "apps/tech-events-uk/jest.config.js",
+        "passWithNoTests": true
+      }
+    }
+  },
+  "tags": []
+}

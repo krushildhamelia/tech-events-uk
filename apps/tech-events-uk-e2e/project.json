@@ -1,0 +1,28 @@
+{
+  "root": "apps/tech-events-uk-e2e",
+  "sourceRoot": "apps/tech-events-uk-e2e/src",
+  "projectType": "application",
+  "targets": {
+    "e2e": {
+      "executor": "@nrwl/cypress:cypress",
+      "options": {
+        "cypressConfig": "apps/tech-events-uk-e2e/cypress.json",
+        "devServerTarget": "tech-events-uk:serve"
+      },
+      "configurations": {
+        "production": {
+          "devServerTarget": "tech-events-uk:serve:production"
+        }
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/tech-events-uk-e2e/**/*.{js,ts}"]
+      }
+    }
+  },
+  "tags": [],
+  "implicitDependencies": ["tech-events-uk"]
+}

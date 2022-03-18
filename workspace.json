@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "events-api": "apps/events-api",
+    "interfaces": "libs/interfaces",
+    "tech-events-uk": "apps/tech-events-uk",
+    "tech-events-uk-e2e": "apps/tech-events-uk-e2e"
+  }
 }
