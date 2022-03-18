@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+@use "./variables.module.scss" as variables;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: Roboto, "Helvetica Neue",;
+}
+
+:root {
+  --primary-color: #{variables.$primary-color};
+  --secondary-color: #{variables.$secondary-color};
+  --info-color: #{variables.$info-color};
+  --divider-color: #{variables.$divider-color};
+}

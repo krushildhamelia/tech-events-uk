@@ -1,0 +1,15 @@
+// Colors choose for dark + light theme... 
+// https://bareynol.github.io/mui-theme-creator
+
+$primary-color: #d22e2b;
+$secondary-color: #aa00ff;
+$info-color: #21f347;
+$divider-color: #aa00ff;
+
+// Here's the export you add to access it from typescript files...
+:export {
+  primaryColor: $primary-color;
+  secondaryColor: $secondary-color;
+  infoColor: $info-color;
+  dividerColor: $divider-color;
+}

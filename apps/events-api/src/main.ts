@@ -11,6 +11,9 @@ const app = express();
 
 DBConnection();
 
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
 app.use('/api', AppRouter);
 
 app.use(ErrorHandler);

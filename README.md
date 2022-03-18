@@ -1,6 +1,12 @@
 
 
 # FigFinance
+# Running the Awesome Tech Events UK
+
+1. `npm install`
+2. `npm install -g nx` (Optional)
+3. `npx nx run-many --projects=events-api,tech-events-uk --target=serve --parallel` OR `npx nx run-many --all --target=serve --parallel`
+4. Launch the browser with the following URL: `http://localhost:4200/` to see the magic.
 
 This project was generated using [Nx](https://nx.dev).
 

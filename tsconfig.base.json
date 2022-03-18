@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@ff/components": ["libs/components/src/index.ts"],
       "@ff/interfaces": ["libs/interfaces/src/index.ts"],
       "@mui/styled-engine": ["./node_modules/@mui/styled-engine-sc"]
     }

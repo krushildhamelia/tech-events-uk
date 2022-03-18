@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "components": "libs/components",
     "events-api": "apps/events-api",
     "interfaces": "libs/interfaces",
     "tech-events-uk": "apps/tech-events-uk",

@@ -1,4 +1,4 @@
 import { model, Model } from 'mongoose';
-import { EventSchema } from './event.schema';
+import { EventQueryHelpers, EventSchema } from './event.schema';
 
-export const EventModel: Model<Event> = model<Event>('Event', EventSchema);
+export const EventModel = model<Event, Model<Event, EventQueryHelpers>>('Event', EventSchema);

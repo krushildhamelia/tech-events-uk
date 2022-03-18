@@ -1,0 +1,1 @@
+export type Loading = 'not loaded' | 'loading' | 'loaded' | 'error'

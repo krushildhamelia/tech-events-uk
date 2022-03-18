@@ -1,0 +1,314 @@
+[
+  {
+      "title": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference",
+      "description": "it-infrastructure-operations  virtual-conference  apac",
+      "address": "APAC | Virtual",
+      "date": "2022-03-21T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "IT Infrastructure & Operations"
+  },
+  {
+      "title": "Gartner Application Innovation & Business Solutions Summit \n",
+      "description": "applications-software-engineering  virtual-conference  na la",
+      "address": "Americas | Virtual",
+      "date": "2022-05-03T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Applications & Software Engineering"
+  },
+  {
+      "title": "Gartner Data & Analytics Summit",
+      "description": "data-analytics  summit  emea",
+      "address": "London, UK",
+      "date": "2022-05-09T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Data & Analytics"
+  },
+  {
+      "title": "Gartner Identity & Access Management Summit",
+      "description": "security-risk-management  summit  emea",
+      "address": "London, UK",
+      "date": "2022-05-12T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Security & Risk Management"
+  },
+  {
+      "title": "Gartner Application Innovation & Business Solutions Summit \n",
+      "description": "applications-software-engineering  virtual-conference  emea",
+      "address": "EMEA | Virtual",
+      "date": "2022-05-16T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Applications & Software Engineering"
+  },
+  {
+      "title": "Gartner CSO & Sales Leader Conference \n",
+      "description": "sales  virtual-conference  na la",
+      "address": "Americas | Virtual",
+      "date": "2022-05-17T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Sales"
+  },
+  {
+      "title": "Gartner Digital Workplace Summit",
+      "description": "applications-software-engineering  virtual-conference  emea",
+      "address": "EMEA | Virtual",
+      "date": "2022-05-18T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Applications & Software Engineering"
+  },
+  {
+      "title": "Gartner CIO Leadership Forum",
+      "description": "cios-it-executives  virtual-conference  apac",
+      "address": "APAC | Virtual",
+      "date": "2022-05-23T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner Marketing Symposium/Xpo™\n",
+      "description": "marketing  virtual-conference  na la",
+      "address": "Americas | Virtual",
+      "date": "2022-05-23T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Marketing"
+  },
+  {
+      "title": "Gartner CFO & Finance Executive Conference",
+      "description": "finance  summit  na",
+      "address": "National Harbor, MD",
+      "date": "2022-06-06T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Finance"
+  },
+  {
+      "title": "Gartner Supply Chain Symposium/Xpo™",
+      "description": "supply-chain  symposium supply-chain-symposium-xpo na",
+      "address": "Orlando, FL",
+      "date": "2022-06-06T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Supply Chain"
+  },
+  {
+      "title": "Gartner Security & Risk Management Summit",
+      "description": "security-risk-management  summit  na",
+      "address": "National Harbor, MD",
+      "date": "2022-06-07T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Security & Risk Management"
+  },
+  {
+      "title": "ガートナー アプリケーション・イノベーション & ビジネス・ソリューション サミット",
+      "description": "applications-software-engineering  virtual-conference  apac",
+      "address": "Japan | Virtual",
+      "date": "2022-06-16T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Applications & Software Engineering"
+  },
+  {
+      "title": "Gartner Security & Risk Management Summit",
+      "description": "security-risk-management  summit  apac",
+      "address": "Sydney, Australia",
+      "date": "2022-06-21T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Security & Risk Management"
+  },
+  {
+      "title": "Gartner Digital Workplace Summit\n",
+      "description": "applications-software-engineering  virtual-conference  na la",
+      "address": "Americas | Virtual",
+      "date": "2022-06-21T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Applications & Software Engineering"
+  },
+  {
+      "title": "Gartner CIO Leadership Forum",
+      "description": "cios-it-executives  virtual-conference  apac",
+      "address": "Japan | Virtual",
+      "date": "2022-07-06T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner Supply Chain Leaders Forum",
+      "description": "supply-chain  forum  emea",
+      "address": "Hertfordshire, UK",
+      "date": "2022-07-11T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Supply Chain"
+  },
+  {
+      "title": "Gartner Tech Growth & Innovation Conference",
+      "description": "technology-service-providers  virtual-conference  na la",
+      "address": "Americas I Virtual",
+      "date": "2022-07-12T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Technology & Service Providers"
+  },
+  {
+      "title": "ガートナー セキュリティ & リスク・マネジメント サミット",
+      "description": "security-risk-management  summit  apac",
+      "address": "Tokyo, Japan",
+      "date": "2022-07-25T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Security & Risk Management"
+  },
+  {
+      "title": "Gartner Data & Analytics Summit",
+      "description": "data-analytics  summit  na",
+      "address": "Orlando, FL",
+      "date": "2022-08-22T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Data & Analytics"
+  },
+  {
+      "title": "Gartner Identity & Access Management Summit",
+      "description": "security-risk-management  summit  na",
+      "address": "Las Vegas, NV",
+      "date": "2022-08-22T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Security & Risk Management"
+  },
+  {
+      "title": "ガートナー デジタル・ワークプレース サミット",
+      "description": "applications-software-engineering  virtual-conference  apac",
+      "address": "Japan | Virtual",
+      "date": "2022-08-29T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "Applications & Software Engineering"
+  },
+  {
+      "title": "Gartner IT Symposium/Xpo™",
+      "description": "cios-it-executives  symposium it-symposium-xpo apac",
+      "address": "Gold Coast, Australia",
+      "date": "2022-09-12T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner Security & Risk Management Summit",
+      "description": "security-risk-management  summit  emea",
+      "address": "London, UK",
+      "date": "2022-09-12T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Security & Risk Management"
+  },
+  {
+      "title": "ガートナー データ & アナリティクス サミット",
+      "description": "data-analytics  summit  apac",
+      "address": "Tokyo, Japan",
+      "date": "2022-09-14T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Data & Analytics"
+  },
+  {
+      "title": "Gartner ReimagineHR Conference",
+      "description": "human-resources  summit  emea",
+      "address": "London, UK",
+      "date": "2022-09-15T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Human Resources"
+  },
+  {
+      "title": "Gartner Data & Analytics Summit",
+      "description": "data-analytics  summit  apac",
+      "address": "Mumbai, India",
+      "date": "2022-09-19T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Data & Analytics"
+  },
+  {
+      "title": "Gartner Supply Chain Symposium/Xpo™\n",
+      "description": "supply-chain  symposium supply-chain-symposium-xpo emea",
+      "address": "London, UK",
+      "date": "2022-09-27T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Supply Chain"
+  },
+  {
+      "title": "Gartner IT Symposium/Xpo™",
+      "description": "cios-it-executives  symposium it-symposium-xpo na",
+      "address": "Orlando, FL",
+      "date": "2022-10-17T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner ReimagineHR Conference",
+      "description": "human-resources  summit  na",
+      "address": "Orlando, FL",
+      "date": "2022-10-24T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Human Resources"
+  },
+  {
+      "title": "Gartner IT Symposium/Xpo™",
+      "description": "cios-it-executives  symposium it-symposium-xpo apac",
+      "address": "Tokyo, Japan",
+      "date": "2022-10-31T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner Data & Analytics Summit",
+      "description": "data-analytics  summit  apac",
+      "address": "Sydney, Australia",
+      "date": "2022-11-07T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "Data & Analytics"
+  },
+  {
+      "title": "Gartner IT Symposium/Xpo™",
+      "description": "cios-it-executives  symposium it-symposium-xpo emea",
+      "address": "Barcelona, Spain",
+      "date": "2022-11-07T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner IT Symposium/Xpo™",
+      "description": "cios-it-executives  symposium it-symposium-xpo apac",
+      "address": "Kochi, India",
+      "date": "2022-11-14T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference",
+      "description": "it-infrastructure-operations  summit  emea",
+      "address": "London, UK",
+      "date": "2022-11-21T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "IT Infrastructure & Operations"
+  },
+  {
+      "title": "Gartner IT Infrastructure, Operations & Cloud Strategies Conference ",
+      "description": "it-infrastructure-operations  summit  na",
+      "address": "Las Vegas, NV",
+      "date": "2022-12-06T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "IT Infrastructure & Operations"
+  },
+  {
+      "title": "ガートナー ITインフラストラクチャ、オペレーション & クラウド戦略コンファレンス",
+      "description": "it-infrastructure-operations  summit  apac",
+      "address": "Tokyo, Japan",
+      "date": "2022-12-13T10:00:00.000Z",
+      "isVirtual": false,
+      "category": "IT Infrastructure & Operations"
+  },
+  {
+      "title": "Gartner CIO Leadership Forum",
+      "description": "cios-it-executives  virtual-conference  na la",
+      "address": "Americas I Virtual",
+      "date": "2023-02-27T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "CIOs & IT Executives"
+  },
+  {
+      "title": "Gartner CIO Leadership Forum",
+      "description": "cios-it-executives  virtual-conference  emea",
+      "address": "EMEA | Virtual",
+      "date": "2023-03-14T10:00:00.000Z",
+      "isVirtual": true,
+      "category": "CIOs & IT Executives"
+  }
+]
